@@ -1,0 +1,30 @@
+init -i index.txt -r records.txt -d 2
+insert -k 16 -p r
+insert -k 19 -p r
+insert -k 30 -p r
+insert -k 45 -p r
+insert -k 39 -p r
+insert -k 10 -p r
+insert -k 14 -p r
+insert -k 8 -p r
+insert -k 25 -p r
+remove -k 16 -p r
+remove -k 19 -p r
+remove -k 30 -p r
+remove -k 45 -p r
+remove -k 39 -p r
+remove -k 10 -p r
+remove -k 14 -p r
+remove -k 8 -p r
+insert -k 16 -p r
+insert -k 19 -p r
+insert -k 30 -p r
+insert -k 45 -p r
+insert -k 39 -p r
+insert -k 10 -p r
+insert -k 14 -p r
+insert -k 8 -p r
+insert -k 49 -p r
+read -k 8
+read -k 30
+read -k 14

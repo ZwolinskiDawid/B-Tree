@@ -1,0 +1,19 @@
+init -i index.txt -r records.txt -d 3
+insert -k 1
+insert -k 2
+insert -k 3
+insert -k 4
+insert -k 5
+insert -k 6
+insert -k 7
+insert -k 8
+insert -k 9
+insert -k 10
+insert -k 11
+insert -k 12
+insert -k 13
+insert -k 0
+insert -k 14
+remove -k 3
+remove -k 2
+remove -k 1

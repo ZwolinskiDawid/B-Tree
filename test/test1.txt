@@ -1,0 +1,22 @@
+init -i index.txt -r records.txt -d 2
+insert -k 12
+insert -k 30
+insert -k 3
+insert -k 40
+insert -k 35
+insert -k 70
+insert -k 55
+insert -k 64
+insert -k 48
+insert -k 59
+insert -k 42
+insert -k 18
+insert -k 6
+insert -k 41
+insert -k 19
+insert -k 28
+insert -k 46
+insert -k 33
+insert -k 34
+insert -k 82
+insert -k 62
